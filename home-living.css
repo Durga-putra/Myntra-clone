@@ -1,0 +1,52 @@
+.banner{
+    max-width: 100%;
+}
+.banner a img{
+    width:100%;
+    height:auto;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container1 a{
+    width:25%;
+}
+.container1 a img{
+    width: 40%;
+}
+.contain{
+    width:60%;
+}
+.contain h4{
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px 30px;
+    font-weight: 700;
+}
+.container2 p{
+    color: #3e4152;
+}
+.container2 a{  
+    text-decoration: none;
+    color: #3e4152;
+}
+.inspired{
+display:flex;
+flex-wrap: wrap; 
+justify-content: space-evenly; 
+padding: 0 4%;  
+background-color: rgb(239, 237, 237);
+}
+.brands{
+    display: flex;
+    padding:0 4%;
+}
+.brands a{
+    width:18%;
+}
+.brands a img{
+    width:100%;
+}
